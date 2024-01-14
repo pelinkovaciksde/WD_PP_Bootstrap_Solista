@@ -1,0 +1,211 @@
+*{
+	margin:0px;
+	padding:0px;
+	text-decoration:none;
+	font-size:25px;
+}
+body{
+	background-image:url(bck.jpg);
+	background-repeat:repeat;
+}
+
+#content{
+	font-family:Poppins;
+}
+
+
+#navigacija{
+	font-family:Poppins;
+}
+#jsclock{
+
+	font-family:Poppins;
+	color:black;
+	padding-top:20px;
+	padding-bottom:6px;
+	margin-top:10px;
+}
+#senka{
+		box-shadow: 0px 5px 10px;
+		color:#FFA500
+}
+
+.navbar-brand{
+	transition:transform ease 0.3s;
+}
+.navbar-brand:hover{
+
+	transform:scale(1.05,1.05);
+}
+
+#Merkur{
+	background-image:url(merkur.webp);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 80%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+
+}
+.link{
+	text-decoration:none;
+}
+#Merkur:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+.card{
+	transition:transform ease 0.45s;
+}
+.card:hover{
+	transform:scale(1.02,1.02);
+	cursor:pointer;
+}
+
+#Venera{
+	background-image:url(venera.jpg);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 80%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+}
+
+
+#Venera:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+
+#Zemlja{
+	background-image:url(zemlja.jpg);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 80%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+}
+#Zemlja:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+#Mars{
+	background-image:url(mars.webp);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 80%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+}
+#Mars:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+#Jupiter{
+	background-image:url(jupiter.png);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 80%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+}
+#Jupiter:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+#Saturn{
+	background-image:url(saturn.webp);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+}
+#Saturn:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+#Uran{
+	background-image:url(uran.webp);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+}
+#Uran:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+#Neptun{
+	background-image:url(neptune.webp);
+	overflow:clip;
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	background-attachment:local;
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	height:20vh;
+	font-family:Poppins;
+	transition:transform ease 0.45s;
+}
+#Neptun:hover{
+	transform:scale(1.05,1.05);
+	cursor:pointer;
+}
+#naslovi{
+	color:rgba(255,165,0,100);
+	
+}
+ul{
+	list-style-image:url(pna.png);
+	font-family:Poppins;
+	font-weight:200;
+
+}
+
+#footer{
+	background-color:#FFA500;
+	box-shadow: 0px -5px 10px;
+	color:white;
+	
+	font-family:Poppins;
+	font-weight:200;
+	
+	text-decoration:none;
+
+}
+#footer a{
+	color:white;
+	text-decoration:none;
+
+}
+
