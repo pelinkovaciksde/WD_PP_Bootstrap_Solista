@@ -30,13 +30,7 @@ body{
 		color:#FFA500
 }
 
-.navbar-brand{
-	transition:transform ease 0.3s;
-}
-.navbar-brand:hover{
 
-	transform:scale(1.05,1.05);
-}
 
 #Merkur{
 	background-image:url(merkur.webp);
