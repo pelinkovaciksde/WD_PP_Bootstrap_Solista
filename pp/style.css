@@ -30,7 +30,13 @@ body{
 		color:#FFA500
 }
 
+.navbar-brand{
+	transition:transform ease 0.3s;
+}
+.navbar-brand:hover{
 
+	transform:scale(1.05,1.05);
+}
 
 #Merkur{
 	background-image:url(merkur.webp);
@@ -203,3 +209,12 @@ ul{
 
 }
 
+.d-inline-flex.gap-1.mb-2.col-12{
+	box-shadow: 0px 5px 10px;
+	color:#FFA500;
+	background-color:rgba(0,0,0,0)
+}
+.card.card-body{
+	box-shadow: 0px 5px 10px;
+	color:#000;	
+}
